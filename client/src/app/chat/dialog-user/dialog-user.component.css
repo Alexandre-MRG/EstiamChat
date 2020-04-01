@@ -1,0 +1,11 @@
+.mat-dialog-content {
+    overflow: hidden;
+}
+
+.dialog-title {
+    float:left;
+}
+
+.dialog-content {
+    float: left;
+}
