@@ -38,7 +38,7 @@ $ ng serve
 
 Ouvrez une page sur votre navigateur avec l'url suivante : [http://localhost:4200](http://localhost:4200/)
 
-## Autheurs :
+## Auteurs :
 
 MARGRAFF Alexandre
 DEITZ Dylan
