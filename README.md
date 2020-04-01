@@ -40,5 +40,5 @@ Ouvrez une page sur votre navigateur avec l'url suivante : [http://localhost:420
 
 ## Auteurs :
 
--*MARGRAFF Alexandre
--*DEITZ Dylan
+-MARGRAFF Alexandre
+-DEITZ Dylan
